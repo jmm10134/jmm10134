@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jmm10134
 - 👀 I’m interested in embedded Linux
-- 🌱 I’m currently learning docker
 - 💞️ I’m looking to collaborate on db_vista knockoff
 - 📫 How to reach me jmm10134@gmail.com
 
